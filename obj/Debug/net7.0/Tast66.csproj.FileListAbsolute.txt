@@ -1,0 +1,14 @@
+C:\Users\Богдан\Desktop\Д.З\Tast66\bin\Debug\net7.0\Tast66.exe
+C:\Users\Богдан\Desktop\Д.З\Tast66\bin\Debug\net7.0\Tast66.deps.json
+C:\Users\Богдан\Desktop\Д.З\Tast66\bin\Debug\net7.0\Tast66.runtimeconfig.json
+C:\Users\Богдан\Desktop\Д.З\Tast66\bin\Debug\net7.0\Tast66.dll
+C:\Users\Богдан\Desktop\Д.З\Tast66\bin\Debug\net7.0\Tast66.pdb
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.AssemblyInfoInputs.cache
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.AssemblyInfo.cs
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.csproj.CoreCompileInputs.cache
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.dll
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\refint\Tast66.dll
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.pdb
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\Tast66.genruntimeconfig.cache
+C:\Users\Богдан\Desktop\Д.З\Tast66\obj\Debug\net7.0\ref\Tast66.dll
